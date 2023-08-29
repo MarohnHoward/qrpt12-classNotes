@@ -1,4 +1,4 @@
-import * as Shows from './showsOnGoogle.json'
+import * as Shows from ''
 import {
     WebDriver,
     Builder,
